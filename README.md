@@ -13,5 +13,5 @@ Compile and start:
 
 ```npm start```
 
-## Related article
+## Forked from
 https://medium.com/@PhilippKief/how-to-debug-typescript-with-vs-code-9cec93b4ae56
